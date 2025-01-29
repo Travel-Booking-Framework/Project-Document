@@ -1,0 +1,19 @@
+1) FlightsService (Flights Detail + CRUD Commands on PostgreSQL + Sync with Elasticsearch -GraphQL-) -> Ali
+2) FlightsFilter (Advanced Filter On Elasticsearch -GraphQL-) -> Ali
+3) TrainsService (Trains Detail + CRUD Commands on PostgreSQL + Sync with Elasticsearch -GraphQL-) -> Ali
+4) TrainsFilter (Advanced Filter On Elasticsearch -GraphQL-) -> Ali
+5) ProfilesService (Profile Detail + CRUD Commands on PostgreSQL -REST API-) -> Ali
+6) UserHistoryService (UserHistory Detail + Consume Kafka and Add to PostgreSQL -REST API-) -> Ali
+7) WalletService () -> Ali
+8) PaymentGatewayService () -> Ali
+9) RefundService () -> Ali
+10) AuthenticationService () -> Pooya
+11) AuthorizationService () -> Pooya
+12) ReservationService (Use Kafka) -> Pooya + Alireza
+13) NotificationService (Event Driven Architecture - Use Kafka) -> Pooya
+14) HotelService (Flights Detail + CRUD Commands on PostgreSQL + Sync with Elasticsearch -REST API-) -> Alireza
+15) HotelFilter (Advanced Filter On Elasticsearch -REST API-) -> Alireza
+16) HotelReviews (Reviews Detail + CRUD Commands on PostgreSQL )
+17) TourService (Flights Detail + CRUD Commands on PostgreSQL + Sync with Elasticsearch -GraphQL-) -> Amin
+18) TourFilter (Advanced Filter On Elasticsearch -GraphQL-) -> Amin
+19) LoyaltyService (Loyalty Detail + Consume Kafka and Add to PostgreSQL -GraphQL-) -> Ali
